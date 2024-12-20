@@ -1,10 +1,10 @@
-## Project Description: Analyzing Excessive Absenteeism from Work
+# Project Description: Analyzing Excessive Absenteeism from Work
 
-Introduction
+## Introduction
 This project focuses on analyzing the factors contributing to excessive absenteeism, defined as being absent from work for more than three hours. Understanding these factors is crucial for employers to identify patterns, mitigate risks, and enhance workforce productivity. The dataset contains various variables such as age, reasons for absence, transportation expenses, and family-related dynamics, which are explored to uncover insights into absentee behaviour.
 ________________________________________
 
-Project Workflow
+## Project Workflow
 1.	Data Preprocessing
 o	Cleaning the dataset to handle missing values, inconsistencies, and outliers.
 o	Encoding categorical variables for better compatibility with statistical and machine learning models.
@@ -25,7 +25,7 @@ o	Providing actionable recommendations based on visualization trends.
 This comprehensive workflow ensures an in-depth analysis of excessive absenteeism, leveraging statistical rigor, predictive modeling, and impactful visualization to deliver meaningful insights.
 
 ________________________________________ 
-Files to be used
+## Files to be used
 1.	Preprocessing.ipynb 
 2.	Statistical_Analysis_and_Machine_Learning.ipynb
 3.	Visualization.twb
