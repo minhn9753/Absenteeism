@@ -1,4 +1,4 @@
-Project Description: Analyzing Excessive Absenteeism from Work
+## Project Description: Analyzing Excessive Absenteeism from Work
 
 Introduction
 This project focuses on analyzing the factors contributing to excessive absenteeism, defined as being absent from work for more than three hours. Understanding these factors is crucial for employers to identify patterns, mitigate risks, and enhance workforce productivity. The dataset contains various variables such as age, reasons for absence, transportation expenses, and family-related dynamics, which are explored to uncover insights into absentee behaviour.
